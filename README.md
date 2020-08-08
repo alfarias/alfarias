@@ -1,1 +1,1 @@
-![Alexandre's github stats](https://github-readme-stats.vercel.app/api?username=alfarias&show_icons=true&theme=dark)
+![Alexandre's github stats](https://github-readme-stats.vercel.app/api?username=alfarias&count_private=true&show_icons=true&theme=dark)
